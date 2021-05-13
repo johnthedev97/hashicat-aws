@@ -13,7 +13,6 @@ cat << EOM > /var/www/html/index.html
   <center><h2>Meow World!</h2></center>
   You are in the awesome world of ${PREFIX}'s cats!
   <!-- END -->
-
   </div>
   </body>
 </html>
